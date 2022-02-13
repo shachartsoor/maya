@@ -27,7 +27,7 @@
     box-sizing: border-box;
 }
 a {
-    color: #dda15e;  
+    color: #923645;  
 }
 body {
     background-color: #e78f35;
@@ -152,7 +152,6 @@ h2.sub-title {
     letter-spacing: 0.10em;
     line-height: 1.8em;
 }
-
 .palenque {
     max-width: 100%;
     border: solid 2px #c15845;
@@ -194,7 +193,7 @@ h2.sub-title {
        background-image: url("images/line.png");
        background-repeat: no-repeat;
        background-size: 6vw;
-       background-position: -2.2vw 0vw;
+       background-position: -2.2vw 4.8vw;
 }
 .title2 {
     position: absolute;
@@ -438,7 +437,7 @@ h2.sub-title {
         bottom: 46svw;
         left: 39vw;
     }
-    .d_empiremap {
+    .d_maya_calendar {
         padding-right: 19vw;
     }
 }
@@ -566,7 +565,7 @@ h2.sub-title {
         bottom: 76.5vw;
         left: 50vw;
     }
-    .d_empiremap {
+    .d_maya_calendar {
         padding-right: 0vw;
     }
     .text2 {
